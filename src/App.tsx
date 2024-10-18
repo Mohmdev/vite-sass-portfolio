@@ -6,7 +6,6 @@ import Faq from './sections/Faq.tsx';
 import Testimonials from './sections/Testimonials.tsx';
 import Download from './sections/Download.tsx';
 import Footer from './sections/Footer.tsx';
-import './App.css';
 
 const App = () => {
   return (
